@@ -436,7 +436,7 @@ for number in add_numbers2(last_num):
 
 #for numbers in add_numbers(last_num):
     #print(number+1)
-#이상의 코드는 불가능합니다. -> 
+#이상의 코드는 불가능합니다. -> git 492
 '''
 짝수 와 홀수의 개수 세기
 list를 입력받아 짝수와 홀수의 개수를 세는 함수를 작성하시오 

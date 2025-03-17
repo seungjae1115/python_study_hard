@@ -34,6 +34,8 @@ github에 다시 추가된 파일 / 코드를 올리는데
 
 git add . 
 git commit -m "feat: 20250212 hello.md uploaded" 
-git push
+git push 
 
 를 순서대로 복사 붙여넣기 하시면 됩니다.
+
+

@@ -17,7 +17,6 @@ main 생성
 #1부터 10까지를 출력하는 for문
 # for i in range(11):
 #     print(i)
-#
 # print()
 #
 # for i in range(10):
